@@ -10,3 +10,5 @@
 <br/> original source
 <br/> http://aminet.net/package/util/pack/decrunchmania-mos
 <br/> ©®etc™ by Robert Leffmann, Morphos port by Fabrizio "Lanch" Bartoloni
+<br/> 
+<br/> PS: AMiGA MUST DIE IN PAIN!!!
