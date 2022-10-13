@@ -5,7 +5,7 @@
 <br/> https://en.wikipedia.org/wiki/Worms_(1995_video_game)
 <br/> 
 <br/> Usage: ```decrunch <input> [output]```
-<br/> only ```decrunch <input>``` maybe overwrites <input> with unpacked data
+<br/> only ```decrunch <input>``` maybe overwrites input file with unpacked data
 <br/> 
 <br/> original source
 <br/> http://aminet.net/package/util/pack/decrunchmania-mos
