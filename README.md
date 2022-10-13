@@ -1,4 +1,4 @@
-# Amiga_Crunchmania_Unpacker
+# Amiga Crunchmania Unpacker
 <br/> just prebuild binary for win32
 <br/> Crunchmania packs has CRM extension, CrM2 signature
 <br/> also with it packed data in Worms (1995) game
